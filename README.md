@@ -2,9 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Available
 
-In the project directory, you can run:  [https://58e6c476.portfolio-czv.pages.dev/]
+Portfolio link --> [https://58e6c476.portfolio-czv.pages.dev/]
 
 ### `npm start`
 
