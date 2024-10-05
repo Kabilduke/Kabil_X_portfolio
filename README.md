@@ -1,7 +1,7 @@
 ## Available
 
 Portfolio link --> [Porfolio](https://58e6c476.portfolio-czv.pages.dev/)\
-Design template --> [Figma](https://www.figma.com/community/file/1239148582119386056)\
+Design template --> [Figma](https://www.figma.com/community/file/1239148582119386056)
 
 ### `npm start`
 
